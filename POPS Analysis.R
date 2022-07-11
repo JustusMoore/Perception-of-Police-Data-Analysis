@@ -1,6 +1,6 @@
 #Perception of Police Study Analysis#
 
-#The goal of this study was to use the Perception of Police Survey (POPS) to measure both African Americans and Whites perception of bias and general attitudes of the police.
+#The goal of this study was to use the Perception of Police Survey to measure perceptions of bias and general attitudes toward the police among African American and White participants.
 #Two questionnaires were administered to participants through Google Forms; The Perception of Police Survey and a demographic questionnaire. 
 #Hypothesis: African Americans would have an overall lower POPS score; with a lower score denoting greater perception of bias and less favorable perceptions of the police.
 
